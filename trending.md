@@ -1,49 +1,81 @@
-# 🔥 GitHub Docker 热门项目
+# Docker 热门项目 - 2026-02-18
 
-<p align="center">
-  <img src="https://img.shields.io/badge/自动更新-每日9:00-blue" />
-  <img src="https://img.shields.io/badge/数据来源-GitHub-green" />
-</p>
+**更新时间：23:41:39**
 
-> 每日自动抓取热门的 Docker 相关开源项目，帮助开发者发现优质工具
+## 今日项目列表
 
+### ohmyzsh/ohmyzsh
+- ⭐ Stars: 184770
+- 📝 描述: Zsh配置框架，含Docker插件
+- 🔗 链接: https://github.com/ohmyzsh/ohmyzsh
 
-**⏰ 最后更新：2026-02-18 23:26:09**
+### louislam/uptime-kuma
+- ⭐ Stars: 82948
+- 📝 描述: 自托管监控工具
+- 🔗 链接: https://github.com/louislam/uptime-kuma
 
-## 📊 今日热门 TOP 15
+### macrozheng/mall
+- ⭐ Stars: 82921
+- 📝 描述: SpringBoot电商系统，Docker部署
+- 🔗 链接: https://github.com/macrozheng/mall
 
-### 🏆 {  ⭐ 
-> 
-> 🔗 []()
+### bregman-arie/devops-exercises
+- ⭐ Stars: 81148
+- 📝 描述: Linux、Docker、K8s面试题
+- 🔗 链接: https://github.com/bregman-arie/devops-exercises
 
-### 🏆   "message": "Not Found",  ⭐ 
-> 
-> 🔗 []()
+### netdata/netdata
+- ⭐ Stars: 77778
+- 📝 描述: 实时系统监控
+- 🔗 链接: https://github.com/netdata/netdata
 
-### 🏆   "documentation_url": "https://docs.github.com/rest",  ⭐ 
-> 
-> 🔗 []()
+### Stirling-Tools/Stirling-PDF
+- ⭐ Stars: 74294
+- 📝 描述: PDF编辑工具
+- 🔗 链接: https://github.com/Stirling-Tools/Stirling-PDF
 
-### 🏆   "status": "404"  ⭐ 
-> 
-> 🔗 []()
+### moby/moby
+- ⭐ Stars: 71479
+- 📝 描述: Docker引擎（官方）
+- 🔗 链接: https://github.com/moby/moby
 
+### traefik/traefik
+- ⭐ Stars: 61711
+- 📝 描述: 云原生反向代理
+- 🔗 链接: https://github.com/traefik/traefik
 
----
+### usememos/memos
+- ⭐ Stars: 57015
+- 📝 描述: 自托管笔记服务
+- 🔗 链接: https://github.com/usememos/memos
 
-## 📁 历史更新
+### pathwaycom/llm-app
+- ⭐ Stars: 56300
+- 📝 描述: AI流水线，Docker友好
+- 🔗 链接: https://github.com/pathwaycom/llm-app
 
-查看 [trending.md](./trending.md) 获取每日详细记录
+### dani-garcia/vaultwarden
+- ⭐ Stars: 55156
+- 📝 描述: Bitwarden兼容服务端
+- 🔗 链接: https://github.com/dani-garcia/vaultwarden
 
-## 🏷️ 分类推荐
+### appwrite/appwrite
+- ⭐ Stars: 54798
+- 📝 描述: 全栈云基础设施
+- 🔗 链接: https://github.com/appwrite/appwrite
 
-| 分类 | 推荐项目 |
-|------|---------|
-| 🐳 Docker 官方 | [moby/moby](https://github.com/moby/moby), [docker/compose](https://github.com/docker/compose) |
-| 🚀 DevOps | [drone/drone](https://github.com/drone/drone), [traefik/traefik](https://github.com/traefik/traefik) |
-| 📊 监控 | [prometheus/prometheus](https://github.com/prometheus/prometheus), [grafana/grafana](https://github.com/grafana/grafana) |
-| 🛠️ 工具 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh), [wagoodman/dive](https://github.com/wagoodman/dive) |
+### Mintplex-Labs/anything-llm
+- ⭐ Stars: 54695
+- 📝 描述: Docker AI应用
+- 🔗 链接: https://github.com/Mintplex-Labs/anything-llm
 
----
+### wagoodman/dive
+- ⭐ Stars: 53358
+- 📝 描述: Docker镜像分析工具
+- 🔗 链接: https://github.com/wagoodman/dive
 
-*🤖 由 OpenClaw 自动生成 | 数据来源 [GitHub API](https://docs.github.com/en/rest/search)*
+### sickcodes/Docker-OSX
+- ⭐ Stars: 52167
+- 📝 描述: Docker中运行macOS
+- 🔗 链接: https://github.com/sickcodes/Docker-OSX
+
